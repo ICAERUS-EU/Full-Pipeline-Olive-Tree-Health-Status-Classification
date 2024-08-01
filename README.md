@@ -43,6 +43,10 @@ The core idea behind this approach is to utilize the complementary strengths of 
 ## Installation
 Install python 3.10 and requred libraries listed in ```requirements.txt```.
 
+Download the detection model from [here](https://zenodo.org/records/13149720) and place it in ```models/object_detection/weights```.
+
+Download the classification model from [here](https://zenodo.org/records/13150032) and place it in ```models/classification_health_status/weights```.
+
 ## Documentation
 
 ### Integration of Multiple Modules
