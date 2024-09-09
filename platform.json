@@ -1,0 +1,31 @@
+{  "title":"Full Pipeline Olive Tree Health Status Classification",
+  "creator": "TAAL",
+  "date": "1/8/2024",
+  "icon":"https://github.com/ICAERUS-EU/Full-Pipeline-Olive-Tree-Health-Status-Classification/ico.jpg?raw=true",
+  "url": "https://github.com/ICAERUS-EU/Full-Pipeline-Olive-Tree-Health-Status-Classification",
+  "icaerus_applications": ["crop-monitoring"],
+  "uses_cases":["OCT"],
+  "extra":{
+      "usage/description": "An image processing workflow designed to classify olive trees by combining data from NDVI (Normalized Difference Vegetation Index) and RGB images."
+  },
+  "filters":{
+      "content": [
+          "Vegetation Index",
+          "Orthomosaic processing toolbox"
+          ],  
+      "data-type": [
+          "Multispectral images",
+          "RGB images",
+          "Orthomosaic"
+      ], 
+
+      "subject": [
+          "Disease detection",
+        "Olive groves",
+      ],
+
+      "location": [
+          "Italy"
+          ]
+        }
+    }
